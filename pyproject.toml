@@ -1,0 +1,13 @@
+[project]
+name = "optimization-for-exemplification"
+description = ""
+version = "0.0.1"
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+
+dependencies = [
+    "numpy",
+    "cmaes",
+]
