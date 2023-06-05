@@ -9,6 +9,7 @@ classifiers = [
 
 dependencies = [
     "numpy",
+    "scipy",
     "cmaes",
     "signal-temporal-logic @ git+https://github.com/ERATOMMSD/signal-temporal-logic"
 ]
